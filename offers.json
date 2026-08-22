@@ -1,90 +1,80 @@
-{
-  "jobs": [
-    {
-      "id": "ofr-1001",
-      "title": "Remote Customer Support Specialist – Flexible US Hours",
-      "description": [
-        "Work from anywhere in the US supporting customers for a fast-growing consumer brand. No prior experience required, and paid training is included from day one.",
-        "You'll handle inbound chat and email inquiries, help customers troubleshoot common issues, and escalate complex cases to senior support staff. Shifts are flexible, with both part-time and full-time schedules available."
-      ],
-      "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=800&q=80",
-      "link": "https://example.com/offer/remote-support",
-      "category": "Remote Jobs",
-      "signature": "BrightPath Careers",
-      "date": "2026-08-10"
-    },
-    {
-      "id": "ofr-1002",
-      "title": "Data Entry & Virtual Assistant Roles – Apply Today",
-      "description": [
-        "Flexible part-time and full-time virtual assistant positions are open across the United States. Set your own schedule and get paid weekly, directly to your preferred payout method.",
-        "Typical tasks include organizing spreadsheets, managing email inboxes, scheduling appointments, and light data entry for small business clients. No degree is required, but strong attention to detail is a plus.",
-        "New applicants are matched with a client within 3–5 business days on average. A basic equipment checklist (laptop and stable internet) is provided during onboarding."
-      ],
-      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
-      "link": "https://example.com/offer/virtual-assistant",
-      "category": "Remote Jobs",
-      "signature": "Northline Staffing",
-      "date": "2026-08-09"
-    },
-    {
-      "id": "ofr-1006",
-      "title": "Remote Sales Representative – Uncapped Commission",
-      "description": [
-        "Join a nationwide sales team with flexible remote scheduling, weekly payouts, and uncapped commission potential for US applicants.",
-        "You'll reach out to warm, pre-qualified leads by phone and email — no cold-calling lists required. A dedicated onboarding coach walks you through scripts, objection handling, and the CRM system in your first week.",
-        "Top performers on the team regularly exceed their base pay through commission alone, and consistent monthly bonuses are available for reps who hit their targets."
-      ],
-      "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&q=80",
-      "link": "https://example.com/offer/remote-sales",
-      "category": "Remote Jobs",
-      "signature": "Summit Sales Group",
-      "date": "2026-08-05"
-    }
-  ],
-  "giftcards": [
-    {
-      "id": "gft-2001",
-      "title": "$100 Amazon Gift Card – Instant Digital Delivery",
-      "description": [
-        "Claim a $100 Amazon gift card, delivered digitally straight to your email as soon as your eligibility is confirmed. No purchase is required to qualify.",
-        "The code works on virtually anything sold on Amazon.com — electronics, groceries, household essentials, and more. Codes are issued directly from a verified merchant partner, so there's nothing to install and nothing to buy first.",
-        "Most recipients receive their code within minutes of completing the short verification steps listed on the offer page."
-      ],
-      "image": "https://images.unsplash.com/photo-1607082349566-187342175e2f?w=800&q=80",
-      "link": "https://example.com/reward/amazon-100",
-      "category": "Amazon Gift Card",
-      "signature": "RewardVault US",
-      "date": "2026-08-13"
-    },
-    {
-      "id": "gft-2002",
-      "title": "$50 Walmart Gift Card – Redeemable In-Store & Online",
-      "description": [
-        "Unlock a $50 Walmart gift card usable at any US Walmart location or on Walmart.com, from groceries to electronics and everyday essentials.",
-        "This offer is open to US residents 18 and older. Once your details are verified, the digital code is sent to your inbox with clear redemption instructions.",
-        "Codes are issued by a verified merchant network and never expire once delivered, so you can use the full balance whenever it's convenient."
-      ],
-      "image": "https://images.unsplash.com/photo-1607083206968-13611e3d76db?w=800&q=80",
-      "link": "https://example.com/reward/walmart-50",
-      "category": "Walmart Gift Card",
-      "signature": "GiftHub Rewards",
-      "date": "2026-08-12"
-    },
-    {
-      "id": "gft-2003",
-      "title": "$75 Visa Prepaid Gift Card – Use Anywhere Visa Is Accepted",
-      "description": [
-        "Get a $75 Visa prepaid gift card that works anywhere major debit cards are accepted, both online and in physical stores across the US.",
-        "Unlike single-retailer cards, this one isn't tied to a specific store — spend it on groceries, gas, streaming subscriptions, or anything else you choose.",
-        "There's no purchase necessary and no monthly fees. Once your eligibility is confirmed, the digital card details are emailed to you along with simple activation steps.",
-        "Availability is limited on a rolling monthly basis, so completed verifications are processed in the order they're received."
-      ],
-      "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&q=80",
-      "link": "https://example.com/reward/visa-75",
-      "category": "Visa Gift Card",
-      "signature": "Verified Merchant Network",
-      "date": "2026-08-11"
-    }
-  ]
-}
+[
+  {
+    "title": "$100 Amazon Gift Card — Instant Digital Delivery",
+    "category": "Gift Card",
+    "signature": "RewardVault US",
+    "image": "https://images.unsplash.com/photo-1607082349566-187342175e2f?w=900&q=80",
+    "link": "#",
+    "date": "2026-08-22",
+    "description": [
+      "RewardVault US is releasing a limited batch of $100 Amazon gift cards to new US members this week. The code works on virtually anything sold on Amazon.com — electronics, groceries, household essentials, and more.",
+      "There's no purchase required to qualify. Registration takes about two minutes: your name, a valid US mailing address, and an email for the confirmation link. A short set of optional preference questions follows, which you're free to skip.",
+      "Codes are issued electronically once your profile is verified, usually within minutes to a few hours. Limited to US residents 18 and older, one claim per household."
+    ]
+  },
+  {
+    "title": "$50 Target Gift Card — New Member Offer",
+    "category": "Gift Card",
+    "signature": "Homefront Perks",
+    "image": "https://images.unsplash.com/photo-1607083206968-13611e3d76db?w=900&q=80",
+    "link": "#",
+    "date": "2026-08-21",
+    "description": [
+      "Homefront Perks is offering a $50 Target gift card to new members who sign up and verify their address. It's aimed at US households looking to offset everyday shopping costs.",
+      "Signup takes about two minutes: your name, a valid US mailing address, and an email to send the confirmation link to. There is no subscription or recurring charge attached to this specific offer.",
+      "Once verified, the gift card code is emailed within 3–5 business days. Limited to one per household; must be a US resident aged 18 or older to claim."
+    ]
+  },
+  {
+    "title": "$75 Visa Prepaid Gift Card — Use Anywhere Visa Is Accepted",
+    "category": "Gift Card",
+    "signature": "Verified Merchant Network",
+    "image": "https://images.unsplash.com/photo-1591370874773-6702e8f12fd8?w=900&q=80",
+    "link": "#",
+    "date": "2026-08-20",
+    "description": [
+      "Get a $75 Visa prepaid gift card that works anywhere major debit cards are accepted, both online and in physical stores across the US — not tied to any single retailer.",
+      "There's no purchase necessary and no monthly fees. Complete the short registration form with your name and a valid mailing address, then confirm via the link sent to your email.",
+      "Once your eligibility is confirmed, the digital card details are emailed to you along with simple activation steps. Availability is limited on a rolling weekly basis, so completed verifications are processed in the order they're received. US residents 18 and older, one per household."
+    ]
+  },
+  {
+    "title": "$40 Coffee & Café Gift Card",
+    "category": "Gift Card",
+    "signature": "BrewClaim Rewards",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=900&q=80",
+    "link": "#",
+    "date": "2026-08-19",
+    "description": [
+      "BrewClaim Rewards is offering a $40 gift card redeemable at a popular US coffee chain, aimed at regulars who could use a break on their morning run.",
+      "Signup is quick: name, a valid US mailing address, and an email to send the confirmation link to. No subscription or recurring charge is attached to this specific offer.",
+      "Once verified, the gift card code is emailed within 3–5 business days. Limited to one per household; must be a US resident aged 18 or older to claim."
+    ]
+  },
+  {
+    "title": "$60 Best Buy Gift Card — Electronics & Tech",
+    "category": "Gift Card",
+    "signature": "TechClaim Rewards",
+    "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=900&q=80",
+    "link": "#",
+    "date": "2026-08-18",
+    "description": [
+      "TechClaim Rewards is releasing a small weekly batch of $60 Best Buy gift cards to new US members — enough toward headphones, accessories, or credit toward something bigger.",
+      "There's no purchase necessary to qualify. After a short profile and email confirmation, an optional set of preference questions can match you with other partner offers you're free to skip.",
+      "Codes are typically delivered within 5–7 business days of verification. Limited to US residents 18 and older, one claim per household."
+    ]
+  },
+  {
+    "title": "$30 Rideshare & Delivery Gift Card",
+    "category": "Gift Card",
+    "signature": "RoadReady Rewards",
+    "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=900&q=80",
+    "link": "#",
+    "date": "2026-08-17",
+    "description": [
+      "RoadReady Rewards is offering a $30 gift card usable on popular US rideshare and food delivery apps, aimed at commuters and anyone ordering in on a busy week.",
+      "To qualify, complete the registration form with your name and a valid mailing address, then confirm via the link sent to your email. No vehicle or payment details are ever requested as part of this offer.",
+      "Delivery is electronic and typically arrives within 2–4 business days of verification. Limited to US residents 18 and older, one per household."
+    ]
+  }
+]
